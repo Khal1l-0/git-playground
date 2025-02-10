@@ -20,4 +20,3 @@
    ```bash
    git push origin your-name
    ```
-5. **Создайте Pull Request (PR)** в GitHub и отправьте его на проверку.
